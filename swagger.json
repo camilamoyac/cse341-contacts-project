@@ -5,7 +5,7 @@
     "description": "An API to create , update, delete and get contacts from a MongoDB database.",
     "version": "1.0.0"
   },
-  "host": "https://cse341-contacts-project-jtxw.onrender.com",
+  "host": "cse341-contacts-project-jtxw.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
